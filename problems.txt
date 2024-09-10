@@ -1,0 +1,19 @@
+<stdio.h> and <iostream> headers, while implementing
+required algorithms yourself.
+o Practice solving problems with brute force as optimization is usually not required in this level of
+the exam, and given memory is plenty (usually 256MB to 1GB). o Some important topics to practice are:
+a. Recursion (Brute Force):
+i. Permutation: O(n!) solution to problems. ii. Combination: O(nCr) solution to problems. iii. Subset: O(2n) solution to problems.
+iv. Simulation: Variable time complexity.
+1. Board game simulation
+2. Job scheduling simulation
+3. Rotating/Reflecting/Copying 2D Array simulation
+b. Graphs:
+i. Graphs represented with 2D Array
+ii. DFS
+iii. BFS: Queue implementation might be required.
+c. Basic algorithms:
+i. O(n2) array sorting.
+ii. Queue/Stack data structures.
+iii. Successive sums
+iv. Any algorithms you can find which are not hard to implement or do not require any concep
